@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain<0.4
+langchain-community<0.4
+langgraph<0.4
+sentence-transformers
+pypdf
+transformers
+torch
+accelerate
+ollama
+opensearch-py
+rank-bm25
